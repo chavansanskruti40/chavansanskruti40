@@ -1,3 +1,4 @@
+![logo](https://github.com/chavansanskruti40/chavansanskruti40/blob/main/MyLinkedInBanner.png)
 <h1 align="center">Heyyy 👋, I'm Sanskruti Chavan</h1>
 <h3 align="center">A passionate about programming ,analytics and travelling.</h3>
 
