@@ -1,5 +1,5 @@
-<h1 align="center">Heyyy, I'm Sanskruti Chavan</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+# Hi there 👋, I'm Sanskruti Chavan
+ ## A passionate Data Analyst from India
 
 - 🌱 I’m currently learning **Data Analytics & Business Intelligence!**
 
